@@ -1,2 +1,2 @@
-# canonical
-Repository for Canonical Ubuntu snaps
+# ubuntu-unity
+Repository for Canonical Ubuntu-Unity snaps
